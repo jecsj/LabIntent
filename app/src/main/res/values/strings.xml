@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabIntent</string>
+    <string name="send">Send Message</string>
+    <string name="hint">Enter A Message</string>
+    <string name="hint2">Ingresar Latitud </string>
+    <string name="hint5"> Latitud Sugerida 4.6255903</string>
+    <string name="hint3">Ingresar Longitud  </string>
+    <string name="hint4">Longitud Sugerida -74.1628307 </string>
+    <string name="sends">Maps</string>
+
+</resources>
